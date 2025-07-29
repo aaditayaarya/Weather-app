@@ -3,7 +3,7 @@
 A simple and beautiful Weather App built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api).
 
 ## 🔗 Live Demo
-[Click here to try the app](https://your-live-link.com) <!-- Replace with your Netlify/GitHub Pages link -->
+[Click here to try the app](https://aaditayaarya.github.io/Weather-app/) <!-- Replace with your Netlify/GitHub Pages link -->
 
 ---
 
